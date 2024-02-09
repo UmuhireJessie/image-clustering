@@ -6,7 +6,7 @@
 
 This project utilises unsplash API to fetch the images according the query (word) searched. After getting the results we then went ahead and cluster them according to the similarity and shown the images on the web page with the help of streamlit. The KMean model was also used to help us cluster the images. The app has been deployed on Streamlite since it offers easy and smooth presentation of results.
 
-Note: Deployed version of the web pages [Here](https://image-clustering.streamlit.app/)
+Note: Deployed version of the web pages [Here](https://image-clusters.streamlit.app/)
 
 ## Packages Used
 
